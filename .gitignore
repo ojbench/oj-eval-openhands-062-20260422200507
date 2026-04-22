@@ -5,3 +5,5 @@ Makefile
 build/
 .code-workspace
 .vscode/
+code
+*.bin
